@@ -1,5 +1,5 @@
 # Ex.No: 1  Implementation of Breadth First Search 
-### DATE: 05.08.2023                                                                           
+### DATE: 12.08.2025                                                                           
 ### REGISTER NUMBER : 212222060077
 ### AIM: 
 To write a python program to implement Breadth first Search. 
@@ -42,7 +42,8 @@ bfs(visited, graph, '5')
 
 ### Output:
 
-![Screenshot 2023-10-28 105052](https://github.com/MaheshS03/AI_Lab_2023-24/assets/128498431/f356218b-918c-4ba0-aa37-62115e8a9c2e)
+<img width="1598" height="747" alt="image" src="https://github.com/user-attachments/assets/6d27ee26-07b2-49f5-9a0a-3d0d711c983c" />
+
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
